@@ -1,0 +1,4 @@
+i didn't use any of the documentation in this repo because i didn't know it existed
+anyway the first time my script didn't error out, it completed it correctly first try
+i guess you could say, as the wise Complex Backflip once said
+"FIRST TRY EEEIDIOT!"
